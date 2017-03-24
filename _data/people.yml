@@ -1103,11 +1103,14 @@ malkiewicz:
     home: CSC
     country: "FI"
     email: tomasz.malkiewicz@csc.fi
+    phone: "M: +358 50 381 2081"
     groups:
         - staff
         - xt
         - dellingr
         - dellingr-sg
+        - e3ds-sg
+        - tryggve-sg
         - nlpl-sg
 
 sabryr:
