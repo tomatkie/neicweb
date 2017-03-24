@@ -15,6 +15,12 @@ bdi-sg:
     title: Biodiversity SG
     heading: Biodiversity steering group
 
+e3ds:
+    title: EISCAT 3D Support
+
+e3ds-sg:
+    title: EISCAT 3D Support steering group
+
 esm:
     title: Earth system modeling
 
